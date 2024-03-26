@@ -1,0 +1,28 @@
+[0m[[0m[31merror[0m] [0m[0m${BASE}/Game.java:133:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method play(java.lang.String)[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class game.Game[0m
+[0m[[0m[31merror[0m] [0m[0mplay[0m
+[0m[[0m[31merror[0m] [0m[0m${BASE}/Game.java:136:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method play(java.lang.String)[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class game.Game[0m
+[0m[[0m[31merror[0m] [0m[0mplay[0m
+[0m[[0m[31merror[0m] [0m[0m${BASE}/Main.java:11:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable UserInterface[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class game.Main[0m
+[0m[[0m[31merror[0m] [0m[0mUserInterface[0m
+[0m[[0m[31merror[0m] [0m[0m${BASE}/Main.java:21:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable UserInterface[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class game.Main[0m
+[0m[[0m[31merror[0m] [0m[0mUserInterface[0m
+[0m[[0m[31merror[0m] [0m[0m${BASE}/Main.java:33:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable UserInterface[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class game.Main[0m
+[0m[[0m[31merror[0m] [0m[0mUserInterface[0m
+[0m[[0m[31merror[0m] [0m[0m${BASE}/Main.java:37:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable UserInterface[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class game.Main[0m
+[0m[[0m[31merror[0m] [0m[0mUserInterface[0m
+[0m[[0m[31merror[0m] [0m[0m${BASE}/Main.java:37:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable UserInterface[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class game.Main[0m
+[0m[[0m[31merror[0m] [0m[0mUserInterface[0m
